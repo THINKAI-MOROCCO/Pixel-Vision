@@ -4,11 +4,14 @@ This project demonstrates how to run and manage models locally using [Ollama](ht
 
 The app has a page for running chat-based models and also one for nultimodal models (_llava and bakllava_) for vision.
 
-##before started make sure to have this model in your ollama
-   rohithbojja/llava-med-v1.6:latest
-__use the system page to dowload it in case 
-__or use this cmd 
-ollama run rohithbojja/llava-med-v1.6:latest
+## before started make sure to have this model in your ollama 
+
+  **rohithbojja/llava-med-v1.6:latest**
+
+- use the system page to dowload it in case 
+
+- or use this cmd ollama run rohithbojja/llava-med-v1.6:latest
+
 
 ## Features
 
