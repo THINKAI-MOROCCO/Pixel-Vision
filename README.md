@@ -4,6 +4,11 @@ This project demonstrates how to run and manage models locally using [Ollama](ht
 
 The app has a page for running chat-based models and also one for nultimodal models (_llava and bakllava_) for vision.
 
+##before started make sure to have this model in your ollama
+   rohithbojja/llava-med-v1.6:latest
+__use the system page to dowload it in case 
+__or use this cmd 
+ollama run rohithbojja/llava-med-v1.6:latest
 
 ## Features
 
@@ -53,3 +58,8 @@ Got questions or suggestions?
 ## Acknowledgments
 
 👏 Kudos to the [Ollama](https://ollama.com/) team for their efforts in making open-source models more accessible!
+
+
+##This is the link for the presentation 
+
+https://www.canva.com/design/DAGFnNjTs78/Ntkk7AJddiaiGzvUZIkjMQ/edit?utm_content=DAGFnNjTs78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
