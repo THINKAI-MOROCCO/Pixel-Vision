@@ -1,18 +1,9 @@
-# 🚀 Ollama x Streamlit Playground
+# 🚀 health care chatbot in criticale cases
 
 This project demonstrates how to run and manage models locally using [Ollama](https://ollama.com/) by creating an interactive UI with [Streamlit](https://streamlit.io).
 
 The app has a page for running chat-based models and also one for nultimodal models (_llava and bakllava_) for vision.
 
-## App in Action
-
-![GIF](assets/ollama_streamlit.gif)
-
-**Check out the video tutorial 👇**
-
-<a href="https://youtu.be/bAI_jWsLhFM">
-  <img src="https://img.youtube.com/vi/bAI_jWsLhFM/hqdefault.jpg" alt="Watch the video" width="100%">
-</a>
 
 ## Features
 
@@ -25,7 +16,7 @@ The app has a page for running chat-based models and also one for nultimodal mod
 Before running the app, ensure you have Python installed on your machine. Then, clone this repository and install the required packages using pip:
 
 ```bash
-git clone https://github.com/tonykipkemboi/ollama_streamlit_demos.git
+git clone https://github.com/THINKAI-MOROCCO/Pixel-Vision.git
 ```
 
 ```bash
