@@ -1,0 +1,4 @@
+ollama
+streamlit==1.33.0
+openai
+tavily-python
