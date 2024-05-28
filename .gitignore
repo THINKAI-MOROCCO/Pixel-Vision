@@ -2,5 +2,6 @@
 .ruff_cache
 .venv
 venv
+PV
 utilities/__pycache__
 Dockerfile

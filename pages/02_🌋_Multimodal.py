@@ -73,7 +73,7 @@ def translate_text(text, source_lang, target_lang):
 
 # Main function
 def main():
-    page_icon("🌋")
+    st.image("utilities/logo.png", width=100)
     st.subheader("LLaVA 1.6 Playground", divider="red", anchor=False)
 
     models_info = ollama.list()
