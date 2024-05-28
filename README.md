@@ -66,3 +66,7 @@ Got questions or suggestions?
 ##This is the link for the presentation 
 
 https://www.canva.com/design/DAGFnNjTs78/Ntkk7AJddiaiGzvUZIkjMQ/edit?utm_content=DAGFnNjTs78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+####LET ADD THE APIS FROM NOW ON 28/06/2024
